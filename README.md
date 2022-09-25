@@ -1,2 +1,2 @@
 # Cadencer
-3D-oriented Game Creation Technology
+Solo-developed 3D-oriented Game Creation Technology
